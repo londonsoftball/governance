@@ -174,7 +174,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 
 ## 2. Pre-game Responsibilities of the Home Team
 
-1. Contacting the Away Team and umpires not less than 48 hours in advance to confirm the game and location. Email is preferable to verbal confirmation.
+1. Contacting the Away Team and umpires not less than 48 hours in advance to confirm the game and location (email is preferred). Failure to do so will result in a warning should the away team or umpires file a complaint. Repeated violations will be investigated by the Technical Officer under the disciplinary process.
 2. Ensuring that the field is marked out to the correct dimensions and in playable condition.
 3. The home team must supply four balls for each game: two 12" and two 11".  One 12" ball and one 11" ball must be new.  The other balls may be used but the umpire must be satisfied that they are in good condition and suitable for use as game balls.
 4. To be eligible for LSL play, 12" softballs must **not** exceed:
