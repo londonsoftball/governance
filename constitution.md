@@ -98,6 +98,7 @@
 5. In the case of any positions for which no nominations have been received in advance of the AGM, nominations may be received at the meeting itself and must be seconded.
 6. Committee nominees must be seconded at the AGM by non-committee members
 7. Committee nominees can only stand for one position at any given time. This does not prevent committee members from fulfilling the work of another committee role, should that role be vacant or additional help is required.
+8. Any committee position may be filled by multiple people if those people have agreed in advance to work on that role together. If no agreement has been made, then they will be treated as separate candidates for that role.
 
 ## 8. Members of the LSL Committee
 
@@ -127,7 +128,7 @@
 3. The quorum at any meeting shall be one third or 6 of those members of the committee entitled to vote at a meeting, whichever is the smaller.
 4. Committee meetings may be held in person, or using phone / video conferencing facilities, or a combination of these.
 5. A record of attendance at committee meetings (in person or via phone / video) will be kept by the Secretary.
-6. All members of the LSL committee as listed in Section 8 above shall be entitled to vote, any matters arising determined by a simple majority. In the event of a tie, the Chair shall have a casting vote.
+6. Each role of the LSL committee as listed in Section 8 shall be entitled to one vote. In the event of a jointly held role (as described in Section 7.8), all holders of the role must agree on their single vote or their role is considered to have abstained. Any matters arising determined by a simple majority. In the event of a tie, the Chair shall have a casting vote.
 7. Members may abstain from voting but no member shall have the power to veto.
 8. The committee may use other forms of communication to vote on issues arising in between meetings, for example an online discussion forum. In such circumstances, the Director will state a timeframe for responses to the vote and at least 50% of committee members must participate in the vote for it to be considered valid.
 9. The Director does not have a casting vote on any matters, except where a committee vote is tied. In that event, the Director has one tie-breaking vote. If the Director's role is shared, there is only one tie-breaking vote for that role.
