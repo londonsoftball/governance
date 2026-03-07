@@ -260,27 +260,28 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
    3. If a team fails to roster a new player within seven (7) days of their first league game, that game will be forfeited if protested by the opposition, save where the failure was due to the new player deciding to join a different team.
 5. Playing up / playing down:
    1. Teams may only use fill-in players (BBH or SBH) who are rostered to a team from any lower division.
-   2. Teams must not use the same individual more than three times over the course of a season. If an individual wants to play for the same higher division team more than three times, they must transfer to that team’s roster.
+   2. Teams must not use the same individual more than three times over the course of a season. If an individual wants to play for the same higher division team more than three times, they must transfer to that team’s roster (see point 6 below). The committee must be notified of such a change within 7 days of the fourth game played by that individual for the higher division team.
    3. A maximum of 2 players can be borrowed from the same team in any given game.
    4. Fill-in players can field in any position but must bat in the lowest position(s) in the line-up.
    5. Save for the exceptions outlined below, under no circumstances are players allowed to play for a team in a lower division to the team with which they are rostered.  A team found to have used a player from a higher division will forfeit any games in which that individual has played.
    6. Roster rules for Playoff games are addressed below.
-6. Lowest Minors Division exception:
+6. Individuals wishing to change teams after the first week of the season must get confirmation from the Committee (Majors / Minors officers, depending on the players current team) before playing for their new team. If requesting to move to a lower division, the Committee may ask for additional information before approving. Until confirmation has been received, the individual remains rostered to their original team.
+7. Lowest Minors Division exception:
    1. Players rostered to a team in the lowest Minors Division are permitted to "play across" for other teams in their division. Each appearance is counted as one of the player's three permitted opportunities to play for that team, as outlined in sub-clause (e)(i) above. Players may not switch teams within the same division during the season, and so may not play across for the same team a fourth time. 
    2. 1 general player, registered to a Minors Division 2 team can fill in for a Minors Division 3 team. The league recognises the difficulty in the lowest division not being able to borrow from divisions below 
    3. This player can play in any position. But bat at the bottom of the order as per normal ringing rules 
    4. In addition to above, Minors Division 3 teams can also borrow a pitcher registered with a Minors Division 2 team, in addition to a general player from a Minors Division 2 team. This means that the Minors Division 3 team can borrow up to 2 players from Minors Division 2, provided one of those players is a pitcher.
-7. Development exception: teams in the lowest Minors Division may field players rostered to a higher division team for purposes of team development and on-field guidance.  However:
+8. Development exception: teams in the lowest Minors Division may field players rostered to a higher division team for purposes of team development and on-field guidance.  However:
    1. This exception is limited to teams with recognised “development affiliations”.  The Committee recognises development affiliations within established Clubs in the LSL.  All other development affiliations must be notified to the Committee prior to the start of the season by the relevant Minors team.
    2. This exception only applies to regular season games played in the first half of the season (cut-off date to be confirmed by the Fixtures Officer);
    3. There is a limit of one (1) higher-division player, per gender, per game;
    4. The higher-division player(s) must play Catcher or Right Field;
    5. The higher-division player(s) must bat in the bottom position(s) in the line-up.
-8. Team organisers must declare any unrostered players at the captains’ meeting before the start of play.
-9. The rostering and playing down restrictions exist to ensure that the League complies with its insurance obligations and to promote player safety. The playing up rule exists to help teams field replacement players at late notice to avoid forfeits and to encourage development by allowing players to try higher division play.  Any actions which breach the spirit of these rules should be brought to the Committee’s attention and may be sanctioned, including by warnings or point deductions.  Without limitation, such conduct may include:
-   1. Clubs rostering top-level players to their lowest club teams at the start of the season in order to allow them to play, effectively, for two club teams for a portion of the season;
-   2. Teams calling on players from lower-division teams to play in priority to individuals on their own roster (especially for important late-season games); or
-   3. Teams calling on players from other leagues to fill in for games at an inappropriate level (e.g. NSL-registered players from the Windsor League filling in for Minors teams).
+9. Team organisers must declare any unrostered players at the captains’ meeting before the start of play.
+10. The rostering and playing down restrictions exist to ensure that the League complies with its insurance obligations and to promote player safety. The playing up rule exists to help teams field replacement players at late notice to avoid forfeits and to encourage development by allowing players to try higher division play.  Any actions which breach the spirit of these rules should be brought to the Committee’s attention and may be sanctioned, including by warnings or point deductions.  Without limitation, such conduct may include:
+    1. Clubs rostering top-level players to their lowest club teams at the start of the season in order to allow them to play, effectively, for two club teams for a portion of the season;
+    2. Teams calling on players from lower-division teams to play in priority to individuals on their own roster (especially for important late-season games); or
+    3. Teams calling on players from other leagues to fill in for games at an inappropriate level (e.g. NSL-registered players from the Windsor League filling in for Minors teams).
 
 ## 10. Number of Players
 
