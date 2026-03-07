@@ -10,6 +10,11 @@ These are published regularly each season as a PDF after being updated based on 
 Microsoft Word is a proprietary format that not everyone can access - we've decided to move these to markdown to ensure they are open to all.
 Using github also gives us greater transparency on changes, with an clear audit record and (if needed), independent approval of any changes.
 
+## Contents
+
+* [LSL Constitution](constitution.md)
+* [LSL Standing Orders](standing-orders.md)
+
 ## Involvement
 
 We welcome contributions from the league. If you have a straightforward change (fixing a typo, cleaning up some confusing language), please
