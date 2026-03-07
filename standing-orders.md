@@ -286,12 +286,13 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 
 1. The minimum number of players required to start a League game is eight: This must comprise of equal parts 12” ball hitters (x4) and 11” ball hitters (x4). An automatic out will be enforced for each missing player at the point at which they are due up to bat.
 2. Teams may also start with nine players (No more than 5 players hitting the same size ball, I.E. 4x 11’ ball hitter and 5 x 12” ball hitter. (automatic out for the missing player)).
-3. A full team is considered when a team has 10 players, with no more than 5 players hitting 12” ball and 5 players hitting 11” ball.
-4. Teams may play with up to 12 players (10 fielders and 2 extra hitters). No more than 6 players hitting 12” ball and 6 players hitting 11” ball.
-5. The two extra hitters must be 1 x 12” ball hitter and 1 x 11” ball hitter.
-6. Exception: where a female player elects to hit a 12” ball she may occupy a fielding & batting position of an 11inch ball hitter without violating these rules.
-7. Late players may be added to the line-up as they arrive to make 5 and 5 or 6 and 6\.
-8. For the avoidance of doubt, the LSL recognises ‘male’ and ‘female’ as meaning an individual’s identified gender, which may not be the same as the gender they were assigned at birth. (Please refer to section A.7).
+3. A team playing with fewer than 10 players must provide a pitcher and catcher when fielding. Any other position may remain vacant.
+4. A full team is considered when a team has 10 players, with no more than 5 players hitting 12” ball and 5 players hitting 11” ball.
+5. Teams may play with up to 12 players (10 fielders and 2 extra hitters). No more than 6 players hitting 12” ball and 6 players hitting 11” ball.
+6. The two extra hitters must be 1 x 12” ball hitter and 1 x 11” ball hitter.
+7. Exception: where a female player elects to hit a 12” ball she may occupy a fielding & batting position of an 11inch ball hitter without violating these rules.
+8. Late players may be added to the line-up as they arrive to make 5 and 5 or 6 and 6\.
+9. For the avoidance of doubt, the LSL recognises ‘male’ and ‘female’ as meaning an individual’s identified gender, which may not be the same as the gender they were assigned at birth. (Please refer to section A.7).
 
 
 ## 11. Batting Order
