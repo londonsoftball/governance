@@ -123,20 +123,18 @@
 
 ## 5. Filling Vacancies Left by Departing Teams
 
-1. If the departure of a team from League means that, even after giving effect to end-of-season promotion/relegation and the addition of new teams qualifying to join the Majors, a division intended to have 8 teams will be left with 7 or fewer, the vacant spot(s) will be filled as follows:
-   1. the Committee will offer the vacant spot to six teams based on where they finished in the preceding season, ranked in this order (see Section 17.11):
-      1. the team that finished second to last in the departing team's division;
-      2. the team that finished 3rd in the division below;
-      3. the team that finished last in the departing team's division;
-      4. the team that finished 4th in the division below;
-      5. the team that finished 5th in the division below;
-      6. the team that finished 6th in the division below;
-   2. the highest ranked of these teams to accept the offer will take the vacant spot;
-   3. if none of these teams accepts the offer, the vacant spot will be filled by the highest ranked team;
-   4. the same process will then be repeated to fill the vacancy left by the team that has been 'promoted'.
-2. The Committee shall commence and conclude this process as soon as possible in order to avoid delays finalising the division structure and schedule for the season.
-
-
+1. The Committee will attempt to maintain a standard number of teams in each division
+2. Before the start of each season, the Committee will announce the target number of teams in each division for that season, based on the number of teams that have registered.
+3. Where a division has fewer than the target number of teams, slots will be filled in order based on where teams finished in the preceding season, using the following ranking.
+   1. The team with the best record that was relegated from the division in the previous season. 
+   2. The team with the best record from the division below that was not promoted in the previous season 
+   3. The team with the second-best record that was relegated from the division in the previous season 
+   4. The team with the second-best record from the division below that was not promoted in the previous season
+4. Where a division has more than the target number of teams 
+   1. All teams in the division will remain in that division for the season 
+   2. The number of relegation spots in that division will be increased by 1 for the current season. 
+   3. At the Committee’s discretion, the number of relegation spots in all lower divisions may also be increased by 1 for the current season.
+5. The Committee shall commence and conclude this process as soon as possible in order to avoid delays finalising the division structure and schedule for the season.
 
 ## 6. Youth Teams
 
