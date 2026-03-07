@@ -123,20 +123,18 @@
 
 ## 5. Filling Vacancies Left by Departing Teams
 
-1. If the departure of a team from League means that, even after giving effect to end-of-season promotion/relegation and the addition of new teams qualifying to join the Majors, a division intended to have 8 teams will be left with 7 or fewer, the vacant spot(s) will be filled as follows:
-   1. the Committee will offer the vacant spot to six teams based on where they finished in the preceding season, ranked in this order (see Section 17.11):
-      1. the team that finished second to last in the departing team's division;
-      2. the team that finished 3rd in the division below;
-      3. the team that finished last in the departing team's division;
-      4. the team that finished 4th in the division below;
-      5. the team that finished 5th in the division below;
-      6. the team that finished 6th in the division below;
-   2. the highest ranked of these teams to accept the offer will take the vacant spot;
-   3. if none of these teams accepts the offer, the vacant spot will be filled by the highest ranked team;
-   4. the same process will then be repeated to fill the vacancy left by the team that has been 'promoted'.
-2. The Committee shall commence and conclude this process as soon as possible in order to avoid delays finalising the division structure and schedule for the season.
-
-
+1. The Committee will attempt to maintain a standard number of teams in each division
+2. Before the start of each season, the Committee will announce the target number of teams in each division for that season, based on the number of teams that have registered.
+3. Where a division has fewer than the target number of teams, slots will be filled in order based on where teams finished in the preceding season, using the following ranking.
+   1. The team with the best record that was relegated from the division in the previous season. 
+   2. The team with the best record from the division below that was not promoted in the previous season 
+   3. The team with the second-best record that was relegated from the division in the previous season 
+   4. The team with the second-best record from the division below that was not promoted in the previous season
+4. Where a division has more than the target number of teams 
+   1. All teams in the division will remain in that division for the season 
+   2. The number of relegation spots in that division will be increased by 1 for the current season. 
+   3. At the Committee’s discretion, the number of relegation spots in all lower divisions may also be increased by 1 for the current season.
+5. The Committee shall commence and conclude this process as soon as possible in order to avoid delays finalising the division structure and schedule for the season.
 
 ## 6. Youth Teams
 
@@ -174,7 +172,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 
 ## 2. Pre-game Responsibilities of the Home Team
 
-1. Contacting the Away Team and umpires not less than 48 hours in advance to confirm the game and location. Email is preferable to verbal confirmation.
+1. Contacting the Away Team and umpires not less than 48 hours in advance to confirm the game and location (email is preferred). Failure to do so will result in a warning should the away team or umpires file a complaint. Repeated violations will be investigated by the Technical Officer under the disciplinary process.
 2. Ensuring that the field is marked out to the correct dimensions and in playable condition.
 3. The home team must supply four balls for each game: two 12" and two 11".  One 12" ball and one 11" ball must be new.  The other balls may be used but the umpire must be satisfied that they are in good condition and suitable for use as game balls.
 4. To be eligible for LSL play, 12" softballs must **not** exceed:
@@ -241,7 +239,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 
 1. If playing conditions allow, games must be played to a conclusion, i.e. not a tie. The Umpire has sole responsibility in determining if it is safe to continue play.
 2. It is the responsibility of the winning team captain/organiser to confirm the score after each game and to promptly register this on the appropriate platform.
-3. Any results not registered by the last eligible day of play will be declared no-results.
+3. Results must be registered within one week of the completion of the game. Repeated failures to do so will be investigated by the Technical Officer under the disciplinary process.
 4. Points will be awarded as follows:
    1. 3 points for a win;
    2. 1 point for a tie/draw;
@@ -260,39 +258,39 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
    3. If a team fails to roster a new player within seven (7) days of their first league game, that game will be forfeited if protested by the opposition, save where the failure was due to the new player deciding to join a different team.
 5. Playing up / playing down:
    1. Teams may only use fill-in players (BBH or SBH) who are rostered to a team from any lower division.
-   2. Teams must not use the same individual more than three times over the course of a season. If an individual wants to play for the same higher division team more than three times, they must transfer to that team’s roster.
+   2. Teams must not use the same individual more than three times over the course of a season. If an individual wants to play for the same higher division team more than three times, they must transfer to that team’s roster (see point 6 below). The committee must be notified of such a change within 7 days of the fourth game played by that individual for the higher division team.
    3. A maximum of 2 players can be borrowed from the same team in any given game.
    4. Fill-in players can field in any position but must bat in the lowest position(s) in the line-up.
    5. Save for the exceptions outlined below, under no circumstances are players allowed to play for a team in a lower division to the team with which they are rostered.  A team found to have used a player from a higher division will forfeit any games in which that individual has played.
    6. Roster rules for Playoff games are addressed below.
-6. Lowest Minors Division exception:
+6. Individuals wishing to change teams after the first week of the season must get confirmation from the Committee (Majors / Minors officers, depending on the players current team) before playing for their new team. If requesting to move to a lower division, the Committee may ask for additional information before approving. Until confirmation has been received, the individual remains rostered to their original team.
+7. Lowest Minors Divisions exception:
    1. Players rostered to a team in the lowest Minors Division are permitted to "play across" for other teams in their division. Each appearance is counted as one of the player's three permitted opportunities to play for that team, as outlined in sub-clause (e)(i) above. Players may not switch teams within the same division during the season, and so may not play across for the same team a fourth time. 
-   2. 1 general player, registered to a Minors Division 2 team can fill in for a Minors Division 3 team. The league recognises the difficulty in the lowest division not being able to borrow from divisions below 
-   3. This player can play in any position. But bat at the bottom of the order as per normal ringing rules 
-   4. In addition to above, Minors Division 3 teams can also borrow a pitcher registered with a Minors Division 2 team, in addition to a general player from a Minors Division 2 team. This means that the Minors Division 3 team can borrow up to 2 players from Minors Division 2, provided one of those players is a pitcher.
-7. Development exception: teams in the lowest Minors Division may field players rostered to a higher division team for purposes of team development and on-field guidance.  However:
+   2.  Teams in the lowest and second-lowest Minors division may borrow 1 general player registered to a team in the second-lowest minor division. They may also borrow a pitcher registered to a team in the second-lowest Minors division. This means that a team in the lowest division or second-lowest division may borrow up to two players registered to teams in the second-lowest division, provided one of those players is a pitcher.
+8. Development exception: teams in the lowest Minors Division may field players rostered to a higher division team for purposes of team development and on-field guidance.  However:
    1. This exception is limited to teams with recognised “development affiliations”.  The Committee recognises development affiliations within established Clubs in the LSL.  All other development affiliations must be notified to the Committee prior to the start of the season by the relevant Minors team.
    2. This exception only applies to regular season games played in the first half of the season (cut-off date to be confirmed by the Fixtures Officer);
    3. There is a limit of one (1) higher-division player, per gender, per game;
    4. The higher-division player(s) must play Catcher or Right Field;
    5. The higher-division player(s) must bat in the bottom position(s) in the line-up.
-8. Team organisers must declare any unrostered players at the captains’ meeting before the start of play.
-9. The rostering and playing down restrictions exist to ensure that the League complies with its insurance obligations and to promote player safety. The playing up rule exists to help teams field replacement players at late notice to avoid forfeits and to encourage development by allowing players to try higher division play.  Any actions which breach the spirit of these rules should be brought to the Committee’s attention and may be sanctioned, including by warnings or point deductions.  Without limitation, such conduct may include:
-   1. Clubs rostering top-level players to their lowest club teams at the start of the season in order to allow them to play, effectively, for two club teams for a portion of the season;
-   2. Teams calling on players from lower-division teams to play in priority to individuals on their own roster (especially for important late-season games); or
-   3. Teams calling on players from other leagues to fill in for games at an inappropriate level (e.g. NSL-registered players from the Windsor League filling in for Minors teams).
+9. Team organisers must declare any unrostered players at the captains’ meeting before the start of play.
+10. The rostering and playing down restrictions exist to ensure that the League complies with its insurance obligations and to promote player safety. The playing up rule exists to help teams field replacement players at late notice to avoid forfeits and to encourage development by allowing players to try higher division play.  Any actions which breach the spirit of these rules should be brought to the Committee’s attention and may be sanctioned, including by warnings or point deductions.  Without limitation, such conduct may include:
+    1. Clubs rostering top-level players to their lowest club teams at the start of the season in order to allow them to play, effectively, for two club teams for a portion of the season;
+    2. Teams calling on players from lower-division teams to play in priority to individuals on their own roster (especially for important late-season games); or
+    3. Teams calling on players from other leagues to fill in for games at an inappropriate level (e.g. NSL-registered players from the Windsor League filling in for Minors teams).
 
 ## 10. Number of Players
 
 1. The minimum number of players required to start a League game is eight: This must comprise of equal parts 12” ball hitters (x4) and 11” ball hitters (x4). An automatic out will be enforced for each missing player at the point at which they are due up to bat.
 2. Teams may also start with nine players (No more than 5 players hitting the same size ball, I.E. 4x 11’ ball hitter and 5 x 12” ball hitter. (automatic out for the missing player)).
-3. A full team is considered when a team has 10 players, with no more than 5 players hitting 12” ball and 5 players hitting 11” ball.
-4. Teams may play with up to 12 players (10 fielders and 2 extra hitters). No more than 6 players hitting 12” ball and 6 players hitting 11” ball.
-5. The two extra hitters must be 1 x 12” ball hitter and 1 x 11” ball hitter.
-6. Exception: where a female player elects to hit a 12” ball she may occupy a fielding & batting position of an 11inch ball hitter without violating these rules.
-7. Late players may be added to the line-up as they arrive to make 5 and 5 or 6 and 6\.
-8. For the avoidance of doubt, the LSL recognises ‘male’ and ‘female’ as meaning an individual’s identified gender, which may not be the same as the gender they were assigned at birth. (Please refer to section A.7).
-
+3. A team playing with fewer than 10 players must provide a pitcher and catcher when fielding. Any other position may remain vacant.
+4. A full team is considered when a team has 10 players, with no more than 5 players hitting 12” ball and 5 players hitting 11” ball.
+5. Teams may play with up to 12 players (10 fielders and 2 extra hitters). No more than 6 players hitting 12” ball and 6 players hitting 11” ball.
+6. The two extra hitters must be 1 x 12” ball hitter and 1 x 11” ball hitter.
+7. Exception: where a female player elects to hit a 12” ball she may occupy a fielding & batting position of an 11inch ball hitter without violating these rules.
+8. Late players may be added to the line-up as they arrive to make 5 and 5 or 6 and 6\.
+9. For the avoidance of doubt, the LSL recognises ‘male’ and ‘female’ as meaning an individual’s identified gender, which may not be the same as the gender they were assigned at birth. (Please refer to section A.7).
+10. If an injury or ejection results in a team having fewer than 10 players remaining, play may continue under the rules defined for starting a game short-handed (see points 1-2 above).
 
 ## 11. Batting Order
 
@@ -366,7 +364,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
    2. Umpires are always entitled to the players’ respect, courtesy and appreciation of the fact that they are volunteers. The LSL Code of Conduct (section D) sets out expected standards of behaviour for league members.
    3. Umpires have a responsibility to respond to any incidents of abuse directed at players or umpires, or other unsporting or unseemly conduct. If such incidents occur, umpires are encouraged to respond by issuing player or team warnings in the first instance but may eject players or team managers for repeated or egregious incidents.
    4. Where a player is ejected from a team, they may be replaced in the field or batting order if the team has available substitute players. If there is no suitable substitute available, provided that the team still has at least 4 males and 4 females in the line-up, the game shall continue with an automatic out being recorded in the ejected player’s spot in the batting order.
-   5. If an ejection results in a team having fewer than 4 males and 4 females in the line-up, the game is forfeit.
+   5. If an ejection or injury results in a team having fewer than 4 12" ball hitters and 4 11" ball hitters in the line-up, the game is forfeit.
    6. Umpires shall report to the Committee any incidents of behaviour breaching either the rules or the LSL Code of Conduct, even if the incident was dealt with on the field. The Committee will consider whether any further action should be taken, following the guidance sent out in the Code of Conduct.
    7. Teams may report incidents of unreasonably poor or inappropriate umpiring to the Technical Officer, who will consider if the umpire or supplying team should be provided with further instruction or guidance.
 
