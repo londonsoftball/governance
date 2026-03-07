@@ -756,4 +756,12 @@ No changes
 1. Converted to markdown
 2. Renumbered sections based on markdown default numbering scheme
    1. Updated section references to refer to correct section based on updated numbering scheme
-   2. **Note:** Chanegelog section references have NOT been updated
+   2. **Note:** previous chanegelog section references have NOT been updated
+3. Proposals from 2026 AGM
+   1. Section A.5 - Clarify adjustments to league structure in response to growth
+   2. Section B.10 - Require Pitcher and Catcher for short-handed teams 
+   3. Section B.10 and B.15 - Required Number of Players after injury / ejection 
+   4. Section B.2 - Consequences for Failing to Confirm Games 
+   5. Section B.8 - Entering Scores in a Timely Manner 
+   6. Section B.9 - Requirements for changing teams mid-season 
+   7. Section B.9 - Expand Div6 ringer exception to Div5 
