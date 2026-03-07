@@ -91,8 +91,8 @@
 2. The League considers all teams playing in the Majors to be of ‘A’ or ‘B’ grade competency (with regard to BSF team grading) and all teams playing in the Minors to be of ‘C’ or ‘D’ grade competency.  Non-LSL tournament organisers may be informed of this to assist in placing LSL teams in appropriate tournament divisions.
 3. New teams entering the League may join either the bottom Majors division or the bottom Minors division.  Teams wishing to join the bottom Majors division must demonstrate to the satisfaction of the Committee that they are a 'B' grade team.  This may be done through a supervised training session, a supervised friendly game and/or consultation with the team's players and LSL players familiar with the team.  The Committee shall make this determination as soon as possible and in any event prior to the deadline for paying League affiliation fees, to avoid delay in finalising the divisional structure and schedule for the season. 
 4. The number of divisions within each of the Majors and Minors, and the number of teams within each division, shall be determined by the Committee as soon as possible following the team registration deadline and evaluation of any new teams wishing to enter the Majors, subject to the following:
-   5. The Committee shall aim to keep the number of teams per division at 8, which allows for a 14-game season with every team playing each other twice on a home-and-away basis. 
-   6. So that the League can grow, the bottom division in the Majors and Minors may expand to more than 8 teams or may be divided into two smaller divisions.
+   1. The Committee shall aim to keep the number of teams per division at 8, which allows for a 14-game season with every team playing each other twice on a home-and-away basis. 
+   2. So that the League can grow, the bottom division in the Majors and Minors may expand to more than 8 teams or may be divided into two smaller divisions.
 5. Procedures regarding end-of-season promotions, relegations, and playoffs (if necessary) are set out in [section 17](#17-playoffs-promotion-and-relegation) of the Regulations Governing Play.
 6. At the Committee’s discretion, any team with three or more forfeits shall be ejected from the League.  Upon ejection, all points accruing from that team's games shall be voided.
 7. Should a team withdraw during the season, all games played by that team shall be voided and not count towards the final league standings.
@@ -183,7 +183,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
    2. a maximum compression force of 375lb\
 (per WBSC Rules governing Championship play, Rule 2.4.3 and Appendix 3), OR:
    3. a maximum COR of .52; and
-   5. a maximum compression force of 300lb
+   4. a maximum compression force of 300lb
 6. The specifications for game balls should be identical, save that the 11" ball specifications may differ from the 12" ball specifications.
 7. Home teams not able to provide the required balls shall pay the amount of £6 per ball or the cost of a new ball, whichever is greater, to the opposing team, if the opposing team is able to supply an acceptable alternative ball. It is the umpire's decision whether this ball shall be used. If there is no suitable ball available, the game shall be considered forfeited, and the home team shall have one point deducted in the standings.
 8. Home teams are to ensure that regulation bases are supplied, with a safety base at first base. If the bases use spikes, then the bases should be securely and safely fastened. The spikes must be below ground level. Any metal buckles shall be taped over, to prevent injury. If any of these safety conditions are not met or the home team fails to supply bases, then the home team may be liable to forfeit the game with the deduction of a point.
