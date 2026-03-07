@@ -293,7 +293,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 7. Exception: where a female player elects to hit a 12” ball she may occupy a fielding & batting position of an 11inch ball hitter without violating these rules.
 8. Late players may be added to the line-up as they arrive to make 5 and 5 or 6 and 6\.
 9. For the avoidance of doubt, the LSL recognises ‘male’ and ‘female’ as meaning an individual’s identified gender, which may not be the same as the gender they were assigned at birth. (Please refer to section A.7).
-
+10. If an injury or ejection results in a team having fewer than 10 players remaining, play may continue under the rules defined for starting a game short-handed (see points 1-2 above).
 
 ## 11. Batting Order
 
@@ -367,7 +367,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
    2. Umpires are always entitled to the players’ respect, courtesy and appreciation of the fact that they are volunteers. The LSL Code of Conduct (section D) sets out expected standards of behaviour for league members.
    3. Umpires have a responsibility to respond to any incidents of abuse directed at players or umpires, or other unsporting or unseemly conduct. If such incidents occur, umpires are encouraged to respond by issuing player or team warnings in the first instance but may eject players or team managers for repeated or egregious incidents.
    4. Where a player is ejected from a team, they may be replaced in the field or batting order if the team has available substitute players. If there is no suitable substitute available, provided that the team still has at least 4 males and 4 females in the line-up, the game shall continue with an automatic out being recorded in the ejected player’s spot in the batting order.
-   5. If an ejection results in a team having fewer than 4 males and 4 females in the line-up, the game is forfeit.
+   5. If an ejection or injury results in a team having fewer than 4 12" ball hitters and 4 11" ball hitters in the line-up, the game is forfeit.
    6. Umpires shall report to the Committee any incidents of behaviour breaching either the rules or the LSL Code of Conduct, even if the incident was dealt with on the field. The Committee will consider whether any further action should be taken, following the guidance sent out in the Code of Conduct.
    7. Teams may report incidents of unreasonably poor or inappropriate umpiring to the Technical Officer, who will consider if the umpire or supplying team should be provided with further instruction or guidance.
 
