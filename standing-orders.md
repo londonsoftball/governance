@@ -241,7 +241,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 
 1. If playing conditions allow, games must be played to a conclusion, i.e. not a tie. The Umpire has sole responsibility in determining if it is safe to continue play.
 2. It is the responsibility of the winning team captain/organiser to confirm the score after each game and to promptly register this on the appropriate platform.
-3. Any results not registered by the last eligible day of play will be declared no-results.
+3. Results must be registered within one week of the completion of the game. Repeated failures to do so will be investigated by the Technical Officer under the disciplinary process.
 4. Points will be awarded as follows:
    1. 3 points for a win;
    2. 1 point for a tie/draw;
