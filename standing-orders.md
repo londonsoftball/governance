@@ -180,7 +180,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
    2. a maximum compression force of 300lb
 5. To be eligible for LSL play, 11" softballs must **not** exceed:
    1. a maximum COR of .47; and
-   2. a maximum compression force of 375lb\
+   2. a maximum compression force of 375lb<br>
 (per WBSC Rules governing Championship play, Rule 2.4.3 and Appendix 3), OR:
    3. a maximum COR of .52; and
    4. a maximum compression force of 300lb
@@ -209,7 +209,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 
 ## 5. Bats
 
-1. All bats must have either an ASA/USA or ISF/WBSC stamp to be considered legal for play except if the bat appears on the ASA/USA banned bat list (which is updated from time to time). Please see BASU’s New WBSC and USA Softball Bat Certification Stamps document for further clarification or if in doubt contact the technical officer.\
+1. All bats must have either an ASA/USA or ISF/WBSC stamp to be considered legal for play except if the bat appears on the ASA/USA banned bat list (which is updated from time to time). Please see BASU’s New WBSC and USA Softball Bat Certification Stamps document for further clarification or if in doubt contact the technical officer.<br>
 [https://londonsoftball.co.uk/wp-content/uploads/2020/02/Updated\_Bat\_Certification\_Jan\_2020.pdf](https://londonsoftball.co.uk/wp-content/uploads/2020/02/Updated_Bat_Certification_Jan_2020.pdf)
 2. Any batter stepping into the batter’s box with a banned bat, shall be called out.
 
@@ -316,7 +316,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 1. 11” ball hitters can only be substituted for 11” ball hitters, except in the occasion when female players have opted to hit a 12” ball.
 2. 12” ball hitters can only be substituted with a 12” ball hitter. This does not include female players who have opted to hit with a 12” ball.
 3. The team making a substitution must notify the opposition captain and/or scorer and confirm which size ball the substitute player will hit.
-4. If a player sustains an injury during a game and no appropriate substitute is available, a team may replace said injured batter/base runner with a Temporary Runner, subject to the batter/base runner having reached a base under their own power. (NOTE: Bases awarded by the umpire can be obtained by the Temporary Runner, subject to WBSC Rule 9.1i.)\
+4. If a player sustains an injury during a game and no appropriate substitute is available, a team may replace said injured batter/base runner with a Temporary Runner, subject to the batter/base runner having reached a base under their own power. (NOTE: Bases awarded by the umpire can be obtained by the Temporary Runner, subject to WBSC Rule 9.1i.)<br>
    The following conditions apply:
    1. Temporary Runners can be brought in at any base (i.e. even if the batter-runner reaches second or third).  
    2. The Temporary Runner must be the last available player (of the same gender, or appropriate non-binary player, as the batter/base runner) who batted before the injured runner.  
@@ -390,7 +390,7 @@ In addition to the WBSC rules regarding Protests the following regulations will 
    4. Results vs 2nd place (only results vs the 2nd ranked team in the league who is NOT part of the tiebreak process at this point shall count)
    5. Continue with results vs 3rd, 4th, and so on as necessary.
    6. Mandatory play-off.
-   7. Drawing of lots.\
+   7. Drawing of lots.<br>
       If no team can compete in a playoff, then drawing lots is the last resort. Rankings for all teams shall be calculated from the 1st place team first, then 2nd until the entire division is ranked.
 3. Teams can elect not to participate in a playoff game (i.e. forfeit) without incurring a point penalty the following season.    
 4. For the avoidance of doubt, runs for/against are not used as a tiebreaker in League play.  
@@ -409,23 +409,23 @@ In addition to the WBSC rules regarding Protests the following regulations will 
 # C. WBSC Rules *NOT* Adopted by LSL
 
 There are some WBSC rules which the LSL does not enforce. These are:  
-- RULE 2.1.6 \- DUGOUT (SIDELINES)\
+- RULE 2.1.6 \- DUGOUT (SIDELINES)<br>
 Paragraph refers to smoking, consumption of alcohol or use of chewing tobacco and vaping. Though not encouraged, LSL does not enforce any of these. During play, players on the field itself, base coaches and umpires, should not partake in any of these activities.  
-- RULE 2.3.1  \- THE OFFICIAL BAT\
+- RULE 2.3.1  \- THE OFFICIAL BAT<br>
 Please see section B.5.1
-- RULE 2.3.3 \- THE OFFICIAL SOFTBALL\
+- RULE 2.3.3 \- THE OFFICIAL SOFTBALL<br>
 Paragraph (a) refers to an official WBSC / ISF Stamp, which is not required by LSL. This exception also applies to the Ball Standards as outlined in Appendix 3 of the WBSC Rules.  
 It is recommended that balls have a leather cover, although synthetic covers are permitted. Balls may be white or yellow.  
-- RULE 2.5.1 & 2.6 \- UNIFORM & COACHES UNIFORM\
+- RULE 2.5.1 & 2.6 \- UNIFORM & COACHES UNIFORM<br>
 Paragraphs a, b, c, d and e relate to Caps, Undershirts, Pants/Sliding Pants and do not apply to LSL, Numbers and Names are not enforced by LSL.  
 Paragraphs f and g refer to plaster casts and jewellery restrictions. These rules do apply.  
 LSL Does not enforce any requirement for coaches’ uniforms.  
-- RULE 3.2.1 \- LINE-UP CARDS AND ROSTERS\
+- RULE 3.2.1 \- LINE-UP CARDS AND ROSTERS<br>
 Paragraph a) Line-up card rules are not enforced by the LSL.  
 Paragraph b) Subject to LSL late arrival rules, players do not have to be present at the start of the game.  
-- RULE 3.2.2 \- PLAYERS\
+- RULE 3.2.2 \- PLAYERS<br>
 In the LSL teams may start with 8 players (with 2 automatic outs) or 9 players ( with 1 automatic out) and may add the late players to their line-up as they arrive. See section B.10  
-- RULE 3.2.6 – SUBSTITUTES\
+- RULE 3.2.6 – SUBSTITUTES<br>
 The LSL enforces WBSC Substitution rules, except where superseded by the 'Temporary Runner' rule. See section B.13
 
 # D. LSL Code of Conduct
