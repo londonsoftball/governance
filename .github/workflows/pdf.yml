@@ -21,7 +21,8 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: constitution.md
-          images_dir: assets
+          images_dir: ./assets
+          image_import: assets
           output_dir: pdfs
           # Default is true, can set to false to only get PDF files
           build_html: false
@@ -38,7 +39,8 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: standing-orders.md
-          images_dir: assets
+          images_dir: ./assets
+          image_import: assets
           output_dir: pdfs
           # Default is true, can set to false to only get PDF files
           build_html: false
