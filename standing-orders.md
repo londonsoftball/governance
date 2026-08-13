@@ -1,4 +1,4 @@
-![LSL Logo](logo-transparent-small.png)
+![LSL Logo](assets/logo-transparent-small.png)
 
 # Contents
 
