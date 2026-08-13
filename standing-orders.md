@@ -118,7 +118,7 @@
 ## 4. Affiliation Fees
 
 1. Each season, affiliation fees will be set by the Committee and published on the registration form along with a deadline for payment.
-2. The divisional structure and schedule for the season cannot be finalised until all teams' fees are paid.  A team’s failure to pay the full affiliation fee on time may result in immediate suspension or termination of membership, in accordance with clause 4 of the LSL Constitution.
+2. The divisional structure and schedule for the season cannot be finalised until all teams' fees are paid.  A team’s failure to pay the full affiliation fee on time may result in immediate suspension or termination of membership, in accordance with section 4 of the LSL Constitution.
 3. Fees for participation in LSL tournaments will be charged and collected separately.
 
 ## 5. Filling Vacancies Left by Departing Teams
@@ -157,8 +157,7 @@
 1. We recognise that some people do not identify as male or female or use gendered pronouns, but instead identify as gender non-binary, gender fluid or use other language.
 2. We recognise that trans\* players can identify anywhere along the gender spectrum.
 3. While we acknowledge that people may use a range of different terms to describe their gender, and that non-binary is not a third gender as such, for the practical purposes of these rules, we are referring to using the word ‘gender’ to refer to female (F), male (M) and non-binary (NB).
-4. As a variation to WBSC rules, LSL regulations permit teams to play with one or two players missing. These are variations to Section B.10.1.
-5. Please refer to Rules for Gender Inclusion found here for more details: [https://londonsoftball.co.uk/wp-content/uploads/2021/02/LSL-Rules-for-Gender-Inclusion-2020.docx.pdf](https://londonsoftball.co.uk/wp-content/uploads/2021/02/LSL-Rules-for-Gender-Inclusion-2020.docx.pdf)
+4. Please refer to Rules for Gender Inclusion found here for more details: [https://londonsoftball.co.uk/wp-content/uploads/2021/02/LSL-Rules-for-Gender-Inclusion-2020.docx.pdf](https://londonsoftball.co.uk/wp-content/uploads/2021/02/LSL-Rules-for-Gender-Inclusion-2020.docx.pdf)
 
 # B. LSL Regulations Governing Play
 
@@ -175,20 +174,19 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 1. Contacting the Away Team and umpires not less than 48 hours in advance to confirm the game and location (email is preferred). Failure to do so will result in a warning should the away team or umpires file a complaint. Repeated violations will be investigated by the Technical Officer under the disciplinary process.
 2. Ensuring that the field is marked out to the correct dimensions and in playable condition.
 3. The home team must supply four balls for each game: two 12" and two 11".  One 12" ball and one 11" ball must be new.  The other balls may be used but the umpire must be satisfied that they are in good condition and suitable for use as game balls.
-4. To be eligible for LSL play, 12" softballs must **not** exceed:
-   1. a maximum coefficient of restitution (COR) of .52; and
-   2. a maximum compression force of 300lb
-5. To be eligible for LSL play, 11" softballs must **not** exceed:
-   1. a maximum COR of .47; and
-   2. a maximum compression force of 375lb<br>
+   1. To be eligible for LSL play, 12" softballs must **not** exceed:
+      1. a maximum coefficient of restitution (COR) of .52; and
+      2. a maximum compression force of 300lb 
+   2. To be eligible for LSL play, 11" softballs must **not** exceed:
+      1. a maximum COR of .47; and
+      2. a maximum compression force of 375lb<br>
 (per WBSC Rules governing Championship play, Rule 2.4.3 and Appendix 3), OR:
-   3. a maximum COR of .52; and
-   4. a maximum compression force of 300lb
-6. The specifications for game balls should be identical, save that the 11" ball specifications may differ from the 12" ball specifications.
-7. Home teams not able to provide the required balls shall pay the amount of £6 per ball or the cost of a new ball, whichever is greater, to the opposing team, if the opposing team is able to supply an acceptable alternative ball. It is the umpire's decision whether this ball shall be used. If there is no suitable ball available, the game shall be considered forfeited, and the home team shall have one point deducted in the standings.
-8. Home teams are to ensure that regulation bases are supplied, with a safety base at first base. If the bases use spikes, then the bases should be securely and safely fastened. The spikes must be below ground level. Any metal buckles shall be taped over, to prevent injury. If any of these safety conditions are not met or the home team fails to supply bases, then the home team may be liable to forfeit the game with the deduction of a point.
-9. Where a Youth Team elects to play away games on their home field, the Youth Team manager must assume all responsibilities listed above for both home and away games.
-
+      3. a maximum COR of .52; and
+      4. a maximum compression force of 300lb
+   3. The specifications for game balls should be identical, save that the 11" ball specifications may differ from the 12" ball specifications.
+   4. Home teams not able to provide the required balls shall pay the amount of £6 per ball or the cost of a new ball, whichever is greater, to the opposing team, if the opposing team is able to supply an acceptable alternative ball. It is the umpire's decision whether this ball shall be used. If there is no suitable ball available, the game shall be considered forfeited, and the home team shall have one point deducted in the standings.
+4. Home teams are to ensure that regulation bases are supplied, with a safety base at first base. If the bases use spikes, then the bases should be securely and safely fastened. The spikes must be below ground level. Any metal buckles shall be taped over, to prevent injury. If any of these safety conditions are not met or the home team fails to supply bases, then the home team may be liable to forfeit the game with the deduction of a point.
+5. Where a Youth Team elects to play away games on their home field, the Youth Team manager must assume all responsibilities listed above for both home and away games.
 
 
 ## 3. Balls
@@ -199,12 +197,12 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 4. Non-Binary players have the option to choose whether to hit 11” or 12” balls. This choice will be confirmed on the line-up shared at the plate conference prior to the game and the player’s choice will remain in effect for the duration of the game.
 5. The batting side is responsible for ensuring the umpire and fielders are aware of which ball each batter is using.
 6. The batting team must ensure that there is a first base coach wearing a glove and holding/covering whichever of the 11” or 12” balls is not in play.
-7. If the wrong size ball is pitched, the batting team shall have the option of accepting the result of the play or requesting a re-pitch using the correct ball at the same ball and strike count.
+7. If the wrong size ball is pitched, the batting team shall have the option of accepting the result of the play or requesting a re-pitch using the correct ball at the same ball and strike count. This is an option play and must be requested prior to the next pitch.
 
 ## 4. Walks
 
 1. Any player hitting the 12” ball will receive two bases on a walk, regardless of gender.
-2. Players hitting an 11” ball will receive one base on a walk, regardless of gender. However, it must be noted a male hitter cannot hit a 11” ball.
+2. Players hitting an 11” ball will receive one base on a walk, regardless of gender. However, it must be noted a male hitter cannot hit an 11” ball.
 3. When there are two outs, if any player hitting a 12” ball is walked, the following batter (regardless of gender or which ball they are hitting) can opt to walk to first base, if it is unoccupied, without batting.
 
 ## 5. Bats
@@ -265,7 +263,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
    6. Roster rules for Playoff games are addressed below.
 6. Individuals wishing to change teams after the first week of the season must get confirmation from the Committee (Majors / Minors officers, depending on the players current team) before playing for their new team. If requesting to move to a lower division, the Committee may ask for additional information before approving. Until confirmation has been received, the individual remains rostered to their original team.
 7. Lowest Minors Divisions exception:
-   1. Players rostered to a team in the lowest Minors Division are permitted to "play across" for other teams in their division. Each appearance is counted as one of the player's three permitted opportunities to play for that team, as outlined in sub-clause (e)(i) above. Players may not switch teams within the same division during the season, and so may not play across for the same team a fourth time. 
+   1. Players rostered to a team in the lowest Minors Division are permitted to "play across" for other teams in their division. Each appearance is counted as one of the player's three permitted opportunities to play for that team, as outlined in clause 5.ii above. Players may not switch teams within the same division during the season, and so may not play across for the same team a fourth time. 
    2.  Teams in the lowest and second-lowest Minors division may borrow 1 general player registered to a team in the second-lowest minor division. They may also borrow a pitcher registered to a team in the second-lowest Minors division. This means that a team in the lowest division or second-lowest division may borrow up to two players registered to teams in the second-lowest division, provided one of those players is a pitcher.
 8. Development exception: teams in the lowest Minors Division may field players rostered to a higher division team for purposes of team development and on-field guidance.  However:
    1. This exception is limited to teams with recognised “development affiliations”.  The Committee recognises development affiliations within established Clubs in the LSL.  All other development affiliations must be notified to the Committee prior to the start of the season by the relevant Minors team.
@@ -281,13 +279,13 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 
 ## 10. Number of Players
 
-1. The minimum number of players required to start a League game is eight: This must comprise of equal parts 12” ball hitters (x4) and 11” ball hitters (x4). An automatic out will be enforced for each missing player at the point at which they are due up to bat.
+1. The minimum number of players required to start a League game is eight: This must comprise equal parts 12” ball hitters (x4) and 11” ball hitters (x4). An automatic out will be enforced for each missing player at the point at which they are due up to bat.
 2. Teams may also start with nine players (No more than 5 players hitting the same size ball, I.E. 4x 11’ ball hitter and 5 x 12” ball hitter. (automatic out for the missing player)).
 3. A team playing with fewer than 10 players must provide a pitcher and catcher when fielding. Any other position may remain vacant.
 4. A full team is considered when a team has 10 players, with no more than 5 players hitting 12” ball and 5 players hitting 11” ball.
 5. Teams may play with up to 12 players (10 fielders and 2 extra hitters). No more than 6 players hitting 12” ball and 6 players hitting 11” ball.
 6. The two extra hitters must be 1 x 12” ball hitter and 1 x 11” ball hitter.
-7. Exception: where a female player elects to hit a 12” ball she may occupy a fielding & batting position of an 11inch ball hitter without violating these rules.
+7. Exception: where a female player elects to hit a 12” ball she may occupy a fielding & batting position of an 11-inch ball hitter without violating these rules.
 8. Late players may be added to the line-up as they arrive to make 5 and 5 or 6 and 6\.
 9. For the avoidance of doubt, the LSL recognises ‘male’ and ‘female’ as meaning an individual’s identified gender, which may not be the same as the gender they were assigned at birth. (Please refer to section A.7).
 10. If an injury or ejection results in a team having fewer than 10 players remaining, play may continue under the rules defined for starting a game short-handed (see points 1-2 above).
@@ -298,7 +296,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 2. As per the existing rules, male players must hit 12-inch balls and female players can elect to hit either size ball.
 3. Non-binary players have the option to hit either size ball. They must make this selection prior to the start of the game and the player’s choice will remain in effect for the duration of the game. For tournaments, non-binary players must select which size ball they will hit before the first game of the tournament starts and may not change this during the tournament.
 4. Players may be substituted by any player who is hitting the same ball size as them (i.e. an 11” ball hitter can only be replaced by another player who will hit an 11” ball).
-5. Exception: where a female player elects to hit a 12” ball she may occupy a batting position of an 11inch ball hitter without violating these rules.
+5. Exception: where a female player elects to hit a 12” ball she may occupy a batting position of an 11-inch ball hitter without violating these rules.
 6. At the plate conference prior to all games, in addition to discussing any ground rules, captains will exchange line-ups, which will specify all players names or shirt numbers and which size ball they will be hitting (including substitutes). This will allow the umpires to apply the rules on ball size, walks, batting line-up and fielding positions appropriately.
 7. All communication between the umpire and team captains should be respectful. Umpires and captains should avoid stigmatising or singling out non-binary players and should not question players’ gender identity.
 8. At any point, the team captain may inform the umpire that they wish to “declare” their inning. The batting team would then take the field. In the following inning, the batter at bat at the time of the declaration will be the first batter of the new inning.
@@ -308,8 +306,8 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
 
 1. The outfield must at all times contain a minimum of two players hitting an 11” ball.
 2. The Infield must at all times contain a minimum of two players hitting an 11” ball.
-3. The pitcher and catcher must at all times contain players hitting a 12” ball and an 11” ball. i.e if the Pitcher hits a 12” ball, then the catcher must hit an 11” ball.
-4. Exception: where a female player elects to hit a 12” ball she may occupy a fielding position of an 11inch ball hitter without violating these rules.
+3. The pitcher and catcher must at all times contain players hitting a 12” ball and an 11” ball. i.e. if the Pitcher hits a 12” ball, then the catcher must hit an 11” ball.
+4. Exception: where a female player elects to hit a 12” ball she may occupy a fielding position of an 11-inch ball hitter without violating these rules.
 
 ## 13. Substitutions
 
@@ -324,11 +322,11 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
    4. Any such use of a Temporary Runner will be outside of the official substitution rules, must be made after 'time' is called and must be announced to the opposing captain and umpires.  
    5. This rule does not apply to any players that may choose to commence a game with pre-existing injuries, save that where multiple games are played in a single day (e.g. tournaments, double-headers, playoffs), players injured in earlier games may make use of the Temporary Runner in subsequent games.  
    6. The Temporary Runner may only be used for one injured player. Additional injured players should be substituted as per the official rules.  
-5. Players with pre\-existing long-term chronic conditions affecting their mobility may apply to the committee for a permanent runner. These runners will be subject to the same provisions as found in (d) above, save for condition (vi).
+5. Players with pre-existing long-term chronic conditions affecting their mobility may apply to the committee for a permanent runner. These runners will be subject to the same provisions as above, save for clause 4.vi
 
 ## 14. Postponements
 
-1. Lack of available rostered players due to work, travel difficulties, conflicting events or otherwise is not an acceptable excuse for postponing a game, except as per (f) below.
+1. Lack of available rostered players due to work, travel difficulties, conflicting events or otherwise is not an acceptable excuse for postponing a game, except as per clause 6 below.
 2. Should there be a situation which the committee deems to affect the entire league – weather, tube strikes etc., only one team is required to ask for a postponement.
    1. Once a postponement has been agreed, the home team must inform the umpires as soon as possible, no later than 5pm on the day of the game.
    2. If a decision has not been made to postpone a game by 5pm on the day, it becomes the umpires’ responsibility to decide whether play can start (see section B.6.8)
@@ -337,7 +335,7 @@ All LSL league and tournament games are governed by the Official Rules of the Wo
    2. **Within one week** of being offered the dates, the away team must respond in writing to confirm which date they have selected, copying in the umpiring team and Fixtures Officer. This will finalise the fixture and the home team must accept the away team’s choice.
    3. The umpiring team from the original fixture is responsible for providing umpires for the rescheduled game, unless the rescheduled date clashes with a fixture they are playing in. In the event of such a clash, the umpiring team will not be penalised for not providing umpires but should attempt to find replacement umpires, seeking help from the Committee and home/away teams (i.e. everyone should make a joint effort to source suitable umpires).
    4. The home team is responsible for arranging a playing ground, so should confirm venue availability for the dates they offer. If their home ground is not available, the home team can arrange for the game to be played at any other ground in London ordinarily used for LSL games.
-   5. If the home or away team does not meet their obligations as set out above, eg does not communicate within the required timeframes, this will be grounds for a forfeit.
+   5. If the home or away team does not meet their obligations as set out above, e.g. does not communicate within the required timeframes, this will be grounds for a forfeit.
    6. If the fixtures officer and umpiring team are not informed of the final rescheduled fixture, both teams will be subject to a deduction of one league point.
 4. For the end portion of the season ONLY, the process described in c) above must be adhered to, with the exception that games may be rescheduled within less than 2 weeks from the original date.
 5. Any disputes arising over efforts to reschedule a game should be referred to the Technical Officer immediately.
@@ -383,7 +381,7 @@ In addition to the WBSC rules regarding Protests the following regulations will 
 ## 17. Playoffs, Promotion, and Relegation
 
 1. At season’s end, the top two and bottom two teams in each division will be automatically promoted and relegated respectively.
-2. Team Standings shall be calculated by the following order of tie breakers:
+2. Team Standings shall be calculated by the following order of tie-breakers:
    1. Points (3 per win, 1 per draw, 0 per loss, \-1 per forfeit, other penalty points)
    2. Head-to-Head Points (involving only all teams tied on the same number of points)
    3. Results vs 1st place (only results vs the 1st ranked team in the league who is NOT part of the tiebreak process at this point shall count)
@@ -409,21 +407,21 @@ In addition to the WBSC rules regarding Protests the following regulations will 
 # C. WBSC Rules *NOT* Adopted by LSL
 
 There are some WBSC rules which the LSL does not enforce. These are:  
-- RULE 2.1.6 \- DUGOUT (SIDELINES)<br>
+- RULE 2.1.6 - DUGOUT (SIDELINES)<br>
 Paragraph refers to smoking, consumption of alcohol or use of chewing tobacco and vaping. Though not encouraged, LSL does not enforce any of these. During play, players on the field itself, base coaches and umpires, should not partake in any of these activities.  
-- RULE 2.3.1  \- THE OFFICIAL BAT<br>
+- RULE 2.3.1  - THE OFFICIAL BAT<br>
 Please see section B.5.1
-- RULE 2.3.3 \- THE OFFICIAL SOFTBALL<br>
+- RULE 2.3.3 - THE OFFICIAL SOFTBALL<br>
 Paragraph (a) refers to an official WBSC / ISF Stamp, which is not required by LSL. This exception also applies to the Ball Standards as outlined in Appendix 3 of the WBSC Rules.  
 It is recommended that balls have a leather cover, although synthetic covers are permitted. Balls may be white or yellow.  
-- RULE 2.5.1 & 2.6 \- UNIFORM & COACHES UNIFORM<br>
+- RULE 2.5.1 & 2.6 - UNIFORM & COACHES UNIFORM<br>
 Paragraphs a, b, c, d and e relate to Caps, Undershirts, Pants/Sliding Pants and do not apply to LSL, Numbers and Names are not enforced by LSL.  
 Paragraphs f and g refer to plaster casts and jewellery restrictions. These rules do apply.  
 LSL Does not enforce any requirement for coaches’ uniforms.  
-- RULE 3.2.1 \- LINE-UP CARDS AND ROSTERS<br>
+- RULE 3.2.1 - LINE-UP CARDS AND ROSTERS<br>
 Paragraph a) Line-up card rules are not enforced by the LSL.  
 Paragraph b) Subject to LSL late arrival rules, players do not have to be present at the start of the game.  
-- RULE 3.2.2 \- PLAYERS<br>
+- RULE 3.2.2 - PLAYERS<br>
 In the LSL teams may start with 8 players (with 2 automatic outs) or 9 players ( with 1 automatic out) and may add the late players to their line-up as they arrive. See section B.10  
 - RULE 3.2.6 – SUBSTITUTES<br>
 The LSL enforces WBSC Substitution rules, except where superseded by the 'Temporary Runner' rule. See section B.13
@@ -494,7 +492,7 @@ Additionally, team organisers, officials, umpires, and committee members are als
 Please let the Committee know as soon as possible if you experience or witness anything that makes you feel uncomfortable, or which may be in breach of the Code of Conduct. Even if you do not want anything done, please still let us know by talking to or emailing a member of the committee.
 
 Complaints may be submitted from any player, team organiser, umpire, or committee member. Complaints from public bodies, organisations or members of the public shall immediately be escalated to full committee and/or BSF/BSUK.  
-The Inclusion Officer shall take the lead in gathering evidence and statements from all involved parties. This may include players, team organisers, umpires, committee members, members of the public and public bodies (eg BSUK, BSF, local councils). Due to potential delays gathering this evidence, an open investigation may take longer than 7 days. If this is the case, the Technical Officer shall inform all parties involved on a fortnightly basis until a case is resolved. If the complaint is against the Technical Officer or they are otherwise unable to participate another suitable committee member or BSF/BSUK representative shall be appointed.
+The Inclusion Officer shall take the lead in gathering evidence and statements from all involved parties. This may include players, team organisers, umpires, committee members, members of the public and public bodies (e.g. BSUK, BSF, local councils). Due to potential delays gathering this evidence, an open investigation may take longer than 7 days. If this is the case, the Technical Officer shall inform all parties involved on a fortnightly basis until a case is resolved. If the complaint is against the Technical Officer or they are otherwise unable to participate another suitable committee member or BSF/BSUK representative shall be appointed.
 
 * Any informal or formal complaints should be reported to the Committee by emailing inclusion.londonsoftball@gmail.com
 * Any complaint regarding a committee member should be reported to the technical officer in the first instance by emailing inclusion.londonsoftball@gmail.com, unless the complaint is against the technical officer in which case it should be sent to any other committee officer.
@@ -753,8 +751,8 @@ No changes
 
 ## Changes in 2026
 
-1. Converted to markdown
-2. Renumbered sections based on markdown default numbering scheme
+1. Converted to Markdown
+2. Renumbered sections based on Markdown default numbering scheme
    1. Updated section references to refer to correct section based on updated numbering scheme
    2. **Note:** previous chanegelog section references have NOT been updated
 3. Proposals from 2026 AGM
