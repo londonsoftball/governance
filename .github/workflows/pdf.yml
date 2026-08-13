@@ -22,7 +22,6 @@ jobs:
         with:
           input_path: constitution.md
           output_dir: pdfs
-          images_dir: assets
           # Default is true, can set to false to only get PDF files
           build_html: false
       - uses: actions/upload-artifact@v7
@@ -38,7 +37,6 @@ jobs:
         with:
           input_path: standing-orders.md
           output_dir: pdfs
-          images_dir: assets
           # Default is true, can set to false to only get PDF files
           build_html: false
       - uses: actions/upload-artifact@v7
