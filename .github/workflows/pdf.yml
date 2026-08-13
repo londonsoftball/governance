@@ -13,7 +13,7 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  converttopdf:
+  convert-constitution:
     name: Build Constitution PDF
     runs-on: ubuntu-latest
     steps:
@@ -25,7 +25,24 @@ jobs:
           images_dir: assets
           # Default is true, can set to false to only get PDF files
           build_html: false
+  convert-standing-orders:
+    name: Build Standing Orders PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: standing-orders.md
+          output_dir: pdfs
+          images_dir: assets
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+  upload-files:
+    name: Upload Artifacts
+    runs-on: ubuntu-latest
+    needs: [convert-constitution, convert-standing-orders]
+    steps:
       - uses: actions/upload-artifact@v7
         with:
-          name: constitution
-          path: pdfs/constitution.pdf
+          name: pdfs
+          path: pdfs/*
