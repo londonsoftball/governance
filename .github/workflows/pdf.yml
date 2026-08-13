@@ -21,6 +21,7 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: constitution.md
+          images_dir: .
           output_dir: pdfs
           # Default is true, can set to false to only get PDF files
           build_html: false
@@ -28,6 +29,7 @@ jobs:
         with:
           name: constitution
           path: pdfs/constitution.pdf
+          archive: false
   convert-standing-orders:
     name: Build Standing Orders PDF
     runs-on: ubuntu-latest
@@ -36,10 +38,12 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: standing-orders.md
+          images_dir: .
           output_dir: pdfs
           # Default is true, can set to false to only get PDF files
           build_html: false
       - uses: actions/upload-artifact@v7
         with:
           name: standing-orders
-          path: pdfs/standing-orders.pdf          
+          path: pdfs/standing-orders.pdf
+          archive: false
